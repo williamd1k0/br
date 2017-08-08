@@ -1,0 +1,58 @@
+# Site settings
+title: William Tumeo
+description: >
+  @NovastrikeMedia/@ns_outside lead programmer;
+  Supporter of open-source initiative;
+  I love Python and Godot Engine;
+  Dyslexic but learning English and 日本語;
+  © William Tumeo 2017
+baseurl: ""
+url: "http://williamd1k0.github.io/br"
+# User settings
+username: TUMEO
+user_title: William Tumeo - Game Developer
+email: tumeowilliam@gmail.com
+twitter_username: williamd1k0
+github_username: williamd1k0
+gplus_username: loremipsum
+disqus_username: loremipsum
+profile_picture: https://t.gyazo.com/teams/thetimetunnel/d563abe4596f2c9e21485d16168f7507.png
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+timezone: America/Sao_Paulo
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+links:
+  - title: home
+    url: /
+  - title: my posts
+    url: /posts
+  - title: series
+    url: /series
+  - title: tags
+    url: /tags
+  - title: about me
+    url: /about
+
+# projects in header index
+projects:
+  - name: redmask
+    url: https://github.com/williamd1k0/redmask
+  - name: godot-pong-ex
+    url: https://github.com/williamd1k0/godot-pong-ex
+  - name: gdscript-cli
+    url: https://github.com/williamd1k0/gdscript-cli
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']

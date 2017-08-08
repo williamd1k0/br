@@ -1,0 +1,16 @@
+<div class="tree-posts">
+
+    <h3><span class="s-keyword">self<span class="s-symbol">.</span></span><span class="s-param">recent_posts</span><span class="s-symbol"> = [</span></h3>
+
+    {% for post in site.posts limit:5 %}
+    <article role="article" class="post-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+        <div class="content">
+            <a title="Open the post" href="{{ post.url | prepend: site.baseurl }}">
+                <h2 class="post-title s-string" itemprop="name">"{{ post.title | replace: ' ','-'}}"<span class="s-symbol">,</span></h2>
+            </a>
+        </div>
+    </article>
+    {% endfor %}
+    <h3><span class="s-symbol">]</span></h3>
+
+</div>
