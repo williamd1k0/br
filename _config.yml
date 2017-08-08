@@ -6,8 +6,8 @@ description: >
   I love Python and Godot Engine;
   Dyslexic but learning English and 日本語;
   © William Tumeo 2017
-baseurl: "https://williamd1k0.github.io/br"
-url: "https://williamd1k0.github.io/br"
+baseurl: "/br"
+url: "https://williamd1k0.github.io"
 # User settings
 username: TUMEO
 user_title: William Tumeo - Game Developer
