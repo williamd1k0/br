@@ -2,11 +2,11 @@
     <div class="content">
 
         <div class="person">
-            <img alt="My photo" src="{{site.profile_picture}}">
+            <img alt="My photo" src="{{site.profile_picture | prepend: site.baseurl}}">
         </div>
 
         <h1>
-            <span class="site-title">[{{site.username}}]</span>
+            <span class="site-title"><a title="About me" href="{{ "about" | prepend: site.baseurl }}">[{{site.username}}]</a></span>
         </h1>
 
         <div class="icons-home">
@@ -22,7 +22,7 @@
                 <svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg>
             </a>
 
-            <a aria-label="My Github" title="Show my projetcts" target="_blank" href="https://github.com/{{site.github_username}}">
+            <a aria-label="My Github" title="Show my projects" target="_blank" href="https://github.com/{{site.github_username}}">
                 <svg class="icon icon-github-alt"><use xlink:href="#icon-github-alt"></use></svg>
             </a>
 

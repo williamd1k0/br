@@ -6,7 +6,7 @@ description: >
   I love Python and Godot Engine;
   Dyslexic but learning English and 日本語;
   © William Tumeo 2017
-baseurl: "/br"
+baseurl: "/br/"
 url: "https://williamd1k0.github.io"
 # User settings
 username: TUMEO
@@ -16,7 +16,7 @@ twitter_username: williamd1k0
 github_username: williamd1k0
 gplus_username: williamtumeo
 disqus_username: tumeopurpleblog
-profile_picture: https://t.gyazo.com/teams/thetimetunnel/d563abe4596f2c9e21485d16168f7507.png
+profile_picture: /assets/img/site/profile.png
 
 # Build settings
 markdown: kramdown
