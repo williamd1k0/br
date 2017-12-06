@@ -16,7 +16,9 @@
             </div>
             {% endif %}
             <article role="article" id="scroll" class="post-content" itemprop="articleBody">
-                <img class="post-image" style="max-height:300px" src="{{page.image | prepend: site.baseurl}}" alt="">
+                <div class="post-image">
+                    <img src="{{page.image | prepend: site.baseurl}}" alt="">
+                </div>
                 {{ content }}
             </article>
 

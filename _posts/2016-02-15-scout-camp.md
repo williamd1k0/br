@@ -9,7 +9,7 @@ image: /assets/img/scout-camp/scoutcamp.png
 twitter_text: Static HTML Group Manager
 ---
 
->This post is written in Brazilian Portuguese only.
+>This post is available in Brazilian Portuguese only.
 
 ## Static HTML Group Manager
 
