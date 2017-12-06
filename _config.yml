@@ -45,9 +45,15 @@ links:
 
 # projects in header index
 projects:
+  - name: Plue's Adventures 2
+    url: https://github.com/williamd1k0/plues-adventures-2
+  - name: Burnt
+    url: https://github.com/williamd1k0/burnt
+  - name: Godot Sandbox
+    url: https://github.com/williamd1k0/godot-sandbox
   - name: redmask
     url: https://github.com/williamd1k0/redmask
-  - name: godot-pong-ex
+  - name: Godot Pong EX
     url: https://github.com/williamd1k0/godot-pong-ex
   - name: gdscript-cli
     url: https://github.com/williamd1k0/gdscript-cli
