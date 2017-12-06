@@ -6,6 +6,7 @@ date:   2016-02-15 00:44:43 -0300
 categories: projects
 tags: [projects, python, html, yaml]
 image: /assets/img/scout-camp/scoutcamp.png
+twitter_text: Static HTML Group Manager
 ---
 
 >This post is written in Brazilian Portuguese only.
@@ -26,10 +27,7 @@ O Programa está atualmente escrito somente em PT-BR.
 
 ## Downloads
 
-Binário (executável): [v1.2.0 x86](https://github.com/williamd1k0/scout-camp/releases/download/v1.2.0/scout-camp-1.2.0-x86.7z.exe){:target="_blank"}
-
-Modelo padrão: [GitHub zip](https://github.com/williamd1k0/scout-camp-template/archive/master.zip){:target="_blank"}
-
-Código-fonte:[GitHub zip](https://github.com/williamd1k0/scout-camp/archive/master.zip){:target="_blank"}
-
-Repositório (Python 2.7 e 3.4): [GitHub Repo](https://github.com/williamd1k0/scout-camp){:target="_blank"}
+- Binário (executável): [v1.2.0 x86](https://github.com/williamd1k0/scout-camp/releases/download/v1.2.0/scout-camp-1.2.0-x86.7z.exe){:target="_blank"}
+- Modelo padrão: [GitHub zip](https://github.com/williamd1k0/scout-camp-template/archive/master.zip){:target="_blank"}
+- Código-fonte:[GitHub zip](https://github.com/williamd1k0/scout-camp/archive/master.zip){:target="_blank"}
+- Repositório (Python 2.7 e 3.4): [GitHub Repo](https://github.com/williamd1k0/scout-camp){:target="_blank"}
